@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 21 year old young man looking to grow in the software development world.
+I am a 21 year old man looking to grow in the software development world.
 
 - 🌱 I’m currently learning typescript/SQL
 - 💬 Ask me about anything
