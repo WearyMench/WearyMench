@@ -2,7 +2,7 @@
 
 I am a 21 year old man looking to grow in the software development world.
 
-- 🌱 I’m currently learning typescript/SQL
+- 🌱 I’m currently learning typescript and C#/SQL
 - 💬 Ask me about anything
 - 📫 How to reach me: adrian.mirabal07@gmail.com
 
