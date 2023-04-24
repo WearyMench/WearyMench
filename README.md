@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I am a systems engineering student with a keen interest in web development.
-https://img.shields.io/badge/%20-HTML5-blue
+![Python](https://img.shields.io/badge/Python-3.8.5-blue)
+
 
 
 - 🌱 I’m currently learning python and .net
