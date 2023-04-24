@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a 21 year old man looking to grow in the software development world.
+I am a systems engineering student with a keen interest in web development.
 
-- 🌱 I’m currently learning C# and SQL
+- 🌱 I’m currently learning python and .net
 - 💬 Ask me about anything
 - 📫 How to reach me: adrian.mirabal07@gmail.com
 
