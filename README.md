@@ -8,7 +8,7 @@ I am a systems engineering student with a keen interest in web development.
 ![ ](https://img.shields.io/badge/TypeScript-blue)
 ![ ](https://img.shields.io/badge/React-blue)
 ![ ](https://img.shields.io/badge/Python-blue)
-![ ](https://img.shields.io/badge/C%-blue)
+![ ](https://img.shields.io/badge/C%23-10.0-blue)
 ![ ](https://img.shields.io/badge/Node.js-blue)
 
 
