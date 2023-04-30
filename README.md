@@ -12,7 +12,7 @@ I am a systems engineering student with a keen interest in web development.
 ![ ](https://img.shields.io/badge/Node.js-blue)
 
 
-- 🌱 I’m currently learning python and .net
+- 🌱 I’m currently learning python
 - 💬 Ask me about anything
 - 📫 How to reach me: adrian.mirabal07@gmail.com
 
