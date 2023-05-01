@@ -10,7 +10,7 @@ I am a systems engineering student with a keen interest in web development.
 ![ ](https://img.shields.io/badge/Python-blue)
 ![ ](https://img.shields.io/badge/C%23-blue)
 ![ ](https://img.shields.io/badge/Node.js-blue)
-
+![ ](https://img.shields.io/badge/PHP-blue)
 
 - 🌱 I’m currently learning python
 - 💬 Ask me about anything
