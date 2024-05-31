@@ -8,11 +8,10 @@ I am a systems engineering student with a keen interest in web development.
 ![ ](https://img.shields.io/badge/TypeScript-blue)
 ![ ](https://img.shields.io/badge/React-blue)
 ![ ](https://img.shields.io/badge/Python-blue)
-![ ](https://img.shields.io/badge/C%23-blue)
 ![ ](https://img.shields.io/badge/Node.js-blue)
 ![ ](https://img.shields.io/badge/Java-blue)
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JAVA
 - 💬 Ask me about anything
 - 📫 How to reach me: adrian.mirabal07@gmail.com
 
