@@ -11,7 +11,7 @@ I am a systems engineering student with a keen interest in web development.
 ![ ](https://img.shields.io/badge/Node.js-blue)
 ![ ](https://img.shields.io/badge/Java-blue)
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Nest.js
 - 💬 Ask me about anything
 - 📫 How to reach me: adrian.mirabal07@gmail.com
 
