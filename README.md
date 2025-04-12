@@ -4,11 +4,16 @@ I'm a passionate software developer who enjoys building clean and functional web
 
 🛠️ Tech stack I enjoy working with:
 
-**Frontend:**  
-HTML5 · CSS3 · JavaScript · TypeScript · React  
+**💻 Frontend**  
+[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) · [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) · JavaScript · TypeScript  
+React · Next.js · Tailwind CSS
 
-**Backend:**  
-Node.js · Express.js · .NET · C# · SQL Server · PostgreSQL  
+**🧪 Backend**  
+Node.js · Express.js · .NET · C#  
+SQL Server · PostgreSQL
+
+**🧰 Tools & DevOps**  
+Git · GitHub · Visual Studio Code · Postman · Swagger · Docker (basics)
 
 - 🌱 Currently exploring advanced Node.js concepts
 - 💬 Feel free to ask me anything!
