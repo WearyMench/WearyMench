@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-I am a systems engineering student with a keen interest in web development.
+I'm a passionate software developer who enjoys building clean and functional web experiences.
 
-![ ](https://img.shields.io/badge/HTML5-blue)
-![ ](https://img.shields.io/badge/CSS3-blue)
-![ ](https://img.shields.io/badge/JavaScript-blue)
-![ ](https://img.shields.io/badge/TypeScript-blue)
-![ ](https://img.shields.io/badge/React-blue)
-![ ](https://img.shields.io/badge/Python-blue)
-![ ](https://img.shields.io/badge/Node.js-blue)
-![ ](https://img.shields.io/badge/Java-blue)
+🛠️ Tech stack I enjoy working with:
 
-- 🌱 I’m currently going deep with node.js
-- 💬 Ask me about anything
-- 📫 How to reach me: adrian.mirabal07@gmail.com
+**Frontend:**  
+HTML5 · CSS3 · JavaScript · TypeScript · React  
+
+**Backend:**  
+Node.js · Express.js · .NET · C# · SQL Server · PostgreSQL  
+
+- 🌱 Currently exploring advanced Node.js concepts
+- 💬 Feel free to ask me anything!
+- 📫 Reach me at: adrian.mirabal07@gmail.com
 
 <!--
 **WearyMench/WearyMench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
