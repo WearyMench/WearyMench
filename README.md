@@ -1,13 +1,8 @@
-<h2 align="center">👋 Hi there, I'm Adrian Mirabal</h2>
-<p align="center">Passionate Software Developer focused on backend development with <strong>Node.js</strong> and <strong>.NET</strong></p>
+## Hi there 👋
+I'm a software developer who enjoys building clean and functional web experiences using modern tools and technologies.
 
-<br />
 
-<p align="center">💻 Building clean and functional web experiences</p>
-
----
-
-### 🛠️ Tech Stack I enjoy working with
+### 🛠️ Tech Stack
 
 #### 📦 Frontend  
 HTML5 · CSS3 · JavaScript · TypeScript  
@@ -24,7 +19,7 @@ Git · GitHub · Visual Studio Code · Postman · Swagger · Docker (basics)
 
 ### 🗣️ Let's Connect
 
-- 🧠 Currently exploring advanced Node.js concepts  
+- 🌱 Currently exploring advanced Node.js concepts  
 - 💬 Feel free to ask me anything  
 - 📫 Reach me at: [adrian.mirabal07@gmail.com](mailto:adrian.mirabal07@gmail.com)
 
