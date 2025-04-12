@@ -1,24 +1,33 @@
-## Hi there 👋
+<h2 align="center">👋 Hi there, I'm Adrian Mirabal</h2>
+<p align="center">Passionate Software Developer focused on backend development with <strong>Node.js</strong> and <strong>.NET</strong></p>
 
-I'm a passionate software developer who enjoys building clean and functional web experiences.
+<br />
 
-🧠 Currently focused on backend development with Node.js and .NET  
+<p align="center">💻 Building clean and functional web experiences</p>
 
-### 🛠️ Tech Stack
+---
 
-**💻 Frontend**  
-[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) · [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) · JavaScript · TypeScript  
+### 🛠️ Tech Stack I enjoy working with
+
+#### 📦 Frontend  
+HTML5 · CSS3 · JavaScript · TypeScript  
 React · Next.js · Tailwind CSS
 
-**🧪 Backend**  
+#### 🧩 Backend  
 Node.js · Express.js · .NET · C#  
 SQL Server · MySQL
 
-**🧰 Tools & DevOps**  
+#### ⚙️ Tools & DevOps  
 Git · GitHub · Visual Studio Code · Postman · Swagger · Docker (basics)
 
-💬 Feel free to ask me anything!  
-📬 Reach me at: adrian.mirabal07@gmail.com
+---
+
+### 🗣️ Let's Connect
+
+- 🧠 Currently exploring advanced Node.js concepts  
+- 💬 Feel free to ask me anything  
+- 📫 Reach me at: [adrian.mirabal07@gmail.com](mailto:adrian.mirabal07@gmail.com)
+
 
 <!--
 **WearyMench/WearyMench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
