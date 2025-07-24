@@ -4,31 +4,14 @@ I'm a passionate software developer from Santo Domingo, Dominican Republic, focu
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
-
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3
-- **Frameworks:** React, Next.js
-- **Styling:** Tailwind CSS
-- **State Management:** React Context, Redux
-
-### Backend Development
-
-- **Languages:** Node.js, C#, .NET
-- **Frameworks:** Express.js, .NET Core
-- **Databases:** SQL Server, MySQL, MongoDB
-- **API Development:** RESTful APIs, GraphQL
-
-### DevOps & Tools
-
-- **Version Control:** Git, GitHub
-- **Development Tools:** VS Code, Postman, Swagger
-- **Containerization:** Docker
-- **Testing:** Jest, React Testing Library
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
+**Backend:** Node.js, Express.js, C#, .NET
+**Databases:** SQL Server, MySQL, MongoDB
+**Tools:** Git, Docker, VS Code, Postman
 
 ## 🌱 Currently Learning
 
 - Advanced Node.js concepts and patterns
-- Microservices architecture
 - Cloud computing and serverless applications
 - Performance optimization techniques
 
