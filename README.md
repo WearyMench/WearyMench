@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Adrian Mirabal
+# Hello! I'm Adrian Mirabal
 
 I'm a passionate software developer from Santo Domingo, Dominican Republic, focused on creating practical and efficient solutions. I love exploring new technologies and building applications that make a difference.
 
