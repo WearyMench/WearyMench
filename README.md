@@ -23,11 +23,11 @@ I'm a passionate software developer from Santo Domingo, Dominican Republic, focu
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WearyMench&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=WearyMench&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WearyMench&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WearyMench&layout=compact&theme=radical)
 
 ---
 
